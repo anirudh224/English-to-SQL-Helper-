@@ -1,0 +1,6 @@
+{
+  "name": "English-to-SQL Helper",
+  "description": "Natural Language Query Interface for a 5-table SQLite Student Database with few-shot LLM prompting, read-only SQL safety validation, and 40-question accuracy evaluation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
